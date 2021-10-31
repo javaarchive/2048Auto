@@ -1,0 +1,3 @@
+[submodule "vis2048"]
+	path = vis2048
+	url = https://github.com/javaarchive/vis2048/
