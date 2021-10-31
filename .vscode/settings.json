@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/raymond/.local/lib/python3.8/site-packages",
+        "./vis2048"
+    ]
+}
